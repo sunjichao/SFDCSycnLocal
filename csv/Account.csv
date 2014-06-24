@@ -1,0 +1,10 @@
+account,ac
+Name,name
+IsDeleted,isdeleted
+ParentId,parentid
+Id,salesforceid
+Phone,phone
+Fax,fax
+Website,website
+OwnerId,ownerid
+CreatedById,createdbyid

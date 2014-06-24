@@ -1,0 +1,10 @@
+account,ac
+Id,id
+Name,name
+IsDeleted,isdeleted
+ParentId,parentid
+Phone,phone
+Fax,fax
+Website,website
+OwnerId,ownerid
+CreatedById,createdbyid
