@@ -1,9 +1,7 @@
 # SalesforcSyncLocalDatabase
 
 ##Summary
-    AUTHOR: Sam sun  @Rexen Technology
-    MAIL: sunjichao@live.com
-    本项目使用Java编写
+    AUTHOR: sam sun
 
 ##Configration
 
